@@ -1,0 +1,48 @@
+{
+	"name": "cyberpunkpurpledark",
+	"displayName": "CyberPunkPurpleDark",
+	"description": "Just a simple cyberpunk purple based theme",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/matteobuscicchio/cyberpunkpurpledark.git"
+    },
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.115.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CyberPunkPurpleDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CyberPunkPurpleDarkColorTheme.json"
+			}
+		],
+		"configurationDefaults": {
+			"window.title": "${folderName}",
+			"window.border": "#fc012a",
+			"window.zoomLevel": -1,
+			"workbench.iconTheme": "material-icon-theme",
+			"workbench.activityBar.compact": true,
+			"workbench.tree.indent": 16,
+			"workbench.tree.renderIndentGuides": "always",
+			"editor.scrollbar.verticalScrollbarSize": 10,
+			"editor.scrollbar.horizontalScrollbarSize": 10,
+			"editor.minimap.showSlider": "always",
+			"editor.fontFamily": "JetBrains Mono, JetBrains Mono NL, Consolas, monospace",
+			"editor.fontLigatures": true,
+			"editor.insertSpaces": false,
+			"editor.tabSize": 4,
+			"editor.fontSize": 13,
+			"chat.editor.fontSize": 13,
+			"chat.fontSize": 15,
+			"terminal.integrated.fontSize": 15,
+			"scm.inputFontSize": 15,
+			"workbench.editor.titleScrollbarSizing": "large",
+			"workbench.editor.titleScrollbarVisibility": "visible"
+		}
+	}
+}
