@@ -31,7 +31,7 @@
 			"editor.scrollbar.verticalScrollbarSize": 10,
 			"editor.scrollbar.horizontalScrollbarSize": 10,
 			"editor.minimap.showSlider": "always",
-			"editor.fontFamily": "JetBrains Mono, JetBrains Mono NL, Consolas, monospace",
+			"editor.fontFamily": "JetBrains Mono, JetBrains Mono NL, Menlo, Consolas, monospace",
 			"editor.fontLigatures": true,
 			"editor.insertSpaces": false,
 			"editor.tabSize": 4,
