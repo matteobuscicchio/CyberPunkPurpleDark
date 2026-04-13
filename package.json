@@ -4,7 +4,7 @@
 	"description": "Just a simple cyberpunk purple based theme",
 	"repository": {
         "type": "git",
-        "url": "https://github.com/matteobuscicchio/cyberpunkpurpledark.git"
+        "url": "https://github.com/matteobuscicchio/CyberPunkPurpleDark.git"
     },
 	"version": "0.0.1",
 	"engines": {
@@ -23,7 +23,6 @@
 		],
 		"configurationDefaults": {
 			"window.title": "${folderName}",
-			"window.border": "#fc012a",
 			"window.zoomLevel": -1,
 			"workbench.iconTheme": "material-icon-theme",
 			"workbench.activityBar.compact": true,
