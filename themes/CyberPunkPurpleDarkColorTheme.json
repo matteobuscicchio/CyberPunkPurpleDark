@@ -69,7 +69,8 @@
         "editor.scrollbarSlider.hoverBackground": "#640064",
         "editor.scrollbarSlider.activeBackground": "#640064",
         "sideBarStickyScroll.background": "#640064",
-        "scrollbar.background": "#00eeff44"
+        "scrollbar.background": "#00eeff44",
+		"window.border": "#fc012a"
 	},
 	"tokenColors": [
 		{
