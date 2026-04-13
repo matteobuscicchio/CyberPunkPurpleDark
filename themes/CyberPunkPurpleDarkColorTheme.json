@@ -17,7 +17,7 @@
 		"sideBarTitle.foreground": "#f2e900",
 		"list.hoverBackground": "#640064",
 		"statusBar.background": "#f2e900",
-		"statusBar.noFolderBackground": "#640064",
+		"statusBar.noFolderBackground": "#f2e900",
 		"statusBar.debuggingBackground": "#f2e900",
 		"statusBar.foreground": "#000000",
 		"statusBar.border": "#f2e900",
